@@ -1,6 +1,6 @@
 ### Hola ¿como estan ? 👋
 
-- 🔭 Aqui encontraran mis proyectos personales y otros proyectos realizados durante mi formacion como desarrolador web y de videojuegos (UTN, Digital House, Alkemy, entre otros)
+- 🔭 Aqui encontraran mis proyectos personales y otros proyectos realizados durante mi formacion como desarrolador web y de videojuegos (UTN, Digital House, Alkemy, No Country, FreeCodeCamp, entre otros)
 - 🌱 Actualmente estoy enfocado en conocer mas sobre el stack javascript MERN. 
 - 🌱 Ademas estoy realizando cursos en www.freecodecamp.org/ relacionados con este stack.
 - 👯 Estoy buscando colaborar en proyectos afines (me uni recientemente a Mambo-js como colaborador).
