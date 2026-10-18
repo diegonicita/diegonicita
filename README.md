@@ -6,7 +6,7 @@
 
 Desarrollador full stack con base en **Buenos Aires, Argentina**. Construyo productos web en producción con usuarios reales — desde plataformas educativas hasta apps potenciadas con IA. Cuando puedo, me meto en el mundo del game dev.
 
-Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplicaciones con **IA generativa** (Claude, DeepSeek). Siempre aprendiendo algo nuevo.
+Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplicaciones con **IA generativa** (Claude, DeepSeek, GLM). Siempre aprendiendo algo nuevo.
 
 ---
 
@@ -59,6 +59,7 @@ Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplic
 <p>
   <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Z.ai_GLM-000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeSafe.ai-000?style=for-the-badge&logoColor=white" />
 </p>
 
