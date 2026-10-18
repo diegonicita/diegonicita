@@ -19,7 +19,7 @@ Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplic
     <td width="80" align="center">📚</td>
     <td>
       <strong><a href="https://examenes.com.ar">examenes.com.ar</a></strong><br/>
-      Plataforma de preparación de exámenes médicos. Stack: <strong>Next.js 14 - TypeScript - Redux Toolkit - Tailwind CSS - MySQL - JWT</strong>. Incluye pasarela de pagos con paypal y mercadolibre.
+      Plataforma de preparación de exámenes médicos. Stack: <strong>Next.js 14 - TypeScript - Redux Toolkit - Tailwind CSS - MySQL - JWT</strong>. Incluye pasarela de pagos con paypal y mercadopago (certificacion como integrador de mercadopago checkout en webs).
     </td>
   </tr>
   <tr>
