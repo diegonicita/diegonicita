@@ -1,39 +1,37 @@
-<!-- Reemplazá "TU_USERNAME" por tu username de GitHub en todos lados -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Hey!+Soy+Diego+%F0%9F%91%8B;Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;AI-Powered+Apps+%F0%9F%A4%96;Game+Dev+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Hey!+Soy+Diego+%F0%9F%91%8B;Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;AI-Powered+Apps+%F0%9F%A4%96;Game+Dev+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" /></a>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
-Desarrollador full stack con base en **Buenos Aires, Argentina**. Construyo productos web en producción con usuarios reales - desde plataformas educativas hasta apps potenciadas por IA. También me gusta meterme en el mundo del game dev cuando puedo.
+Desarrollador full stack con base en **Buenos Aires, Argentina**. Construyo productos web en producción con usuarios reales — desde plataformas educativas hasta apps potenciadas con IA. Cuando puedo, me meto en el mundo del game dev.
 
 Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplicaciones con **IA generativa** (Claude, DeepSeek). Siempre aprendiendo algo nuevo.
 
 ---
 
-### 🚀 Proyectos destacados en produccion (examenes y enarmex con usuarios reales)
+### 🚀 Proyectos en producción, con usuarios reales
 
 <table>
   <tr>
     <td width="80" align="center">📚</td>
     <td>
       <strong><a href="https://examenes.com.ar">examenes.com.ar</a></strong><br/>
-      Plataforma de preparación de exámenes médicos. Stack: <strong>Next.js 14 - TypeScript - Redux Toolkit - Tailwind CSS - MySQL - JWT</strong>. Incluye pasarela de pagos con paypal y mercadopago (certificacion como integrador de mercadopago checkout en webs).
+      Plataforma de preparación de exámenes médicos. Stack: <strong>Next.js 14 · TypeScript · Redux Toolkit · Tailwind CSS · MySQL · JWT</strong>. Pasarelas de pago con PayPal y MercadoPago (certificación como integrador de MercadoPago Checkout).
     </td>
   </tr>
   <tr>
     <td width="80" align="center">🩺</td>
     <td>
       <strong><a href="https://enarmex.com">enarmex.com</a></strong><br/>
-      Plataforma especializada en preparación para el ENARM (Examen Nacional de Residencias Médicas de México). Banco de preguntas, simulacros y guías de estudio. Incluye pasarela de pagos con paypal.
+      Plataforma especializada en preparación para el ENARM (Examen Nacional de Residencias Médicas de México): banco de preguntas, simulacros y guías de estudio. Pasarela de pagos con PayPal.
     </td>
   </tr>
   <tr>
     <td width="80" align="center">🤖</td>
     <td>
       <strong><a href="https://chatai.automation.net.ar">chat-ai</a></strong><br/>
-      Chatbot genérico configurable con sistema de skills - muestra guías completas e interactúa con preguntas de opción múltiple. Integra modelos de IA como DeepSeek y Typesafe.
+      Chatbot configurable con sistema de skills — muestra guías completas e interactúa con preguntas de opción múltiple. Integra DeepSeek y TypeSafe AI con streaming en tiempo real.
     </td>
   </tr>
 </table>
@@ -77,7 +75,11 @@ Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplic
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegonicita&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?user=diegonicita&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=diegonicita&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=diegonicita&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -91,5 +93,3 @@ Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplic
 </p>
 
 ---
-
-
