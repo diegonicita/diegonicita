@@ -19,21 +19,21 @@ Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplic
     <td width="80" align="center">📚</td>
     <td>
       <strong><a href="https://examenes.com.ar">examenes.com.ar</a></strong><br/>
-      Plataforma de preparación de exámenes médicos. Stack: <strong>Next.js 14 - TypeScript - Redux Toolkit - Tailwind CSS - MySQL - JWT</strong>. Incluye sistema de planes, server actions y autenticación con cookies.
+      Plataforma de preparación de exámenes médicos. Stack: <strong>Next.js 14 - TypeScript - Redux Toolkit - Tailwind CSS - MySQL - JWT</strong>. Incluye pasarela de pagos con paypal y mercadolibre.
     </td>
   </tr>
   <tr>
     <td width="80" align="center">🩺</td>
     <td>
       <strong><a href="https://enarmex.com">enarmex.com</a></strong><br/>
-      Plataforma especializada en preparación para el ENARM (Examen Nacional de Residencias Médicas de México). Banco de preguntas, simulacros y guías de estudio.
+      Plataforma especializada en preparación para el ENARM (Examen Nacional de Residencias Médicas de México). Banco de preguntas, simulacros y guías de estudio. Incluye pasarela de pagos con paypal.
     </td>
   </tr>
   <tr>
     <td width="80" align="center">🤖</td>
     <td>
       <strong><a href="https://chatai.automation.net.ar">chat-ai</a></strong><br/>
-      Chatbot genérico configurable con sistema de skills — muestra guías completas e interactúa con preguntas de opción múltiple. Integra modelos de IA como Claude y DeepSeek.
+      Chatbot genérico configurable con sistema de skills - muestra guías completas e interactúa con preguntas de opción múltiple. Integra modelos de IA como DeepSeek y Typesafe.
     </td>
   </tr>
 </table>
@@ -88,16 +88,8 @@ Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplic
   <a href="https://www.linkedin.com/in/diegonicita/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://examenes.com.ar">
-    <img src="https://img.shields.io/badge/examenes.com.ar-000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://enarmex.com">
-    <img src="https://img.shields.io/badge/enarmex.com-000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diegonicita&style=flat-square&color=38BDF8" alt="Profile views" />
-</p>
+
