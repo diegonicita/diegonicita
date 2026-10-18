@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-Desarrollador full stack con base en **Buenos Aires, Argentina**. Construyo productos web en producción con usuarios reales — desde plataformas educativas hasta apps potenciadas por IA. También me gusta meterme en el mundo del game dev cuando puedo.
+Desarrollador full stack con base en **Buenos Aires, Argentina**. Construyo productos web en producción con usuarios reales - desde plataformas educativas hasta apps potenciadas por IA. También me gusta meterme en el mundo del game dev cuando puedo.
 
 Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplicaciones con **IA generativa** (Claude, DeepSeek). Siempre aprendiendo algo nuevo.
 
