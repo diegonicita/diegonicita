@@ -19,7 +19,7 @@ Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplic
     <td width="80" align="center">📚</td>
     <td>
       <strong><a href="https://examenes.com.ar">examenes.com.ar</a></strong><br/>
-      Plataforma de preparación de exámenes médicos. Stack: <strong>Node.js · MySQL · Nginx · Ubuntu VPS</strong>. Incluye sistema de suscripciones, analytics con GoAccess, protección anti-bots e infraestructura Cloudflare-ready.
+      Plataforma de preparación de exámenes médicos. Stack: <strong>Next.js 14 · TypeScript · Redux Toolkit · Tailwind CSS · MySQL · JWT</strong>. Incluye sistema de suscripciones, server actions y autenticación con cookies.
     </td>
   </tr>
   <tr>
