@@ -12,7 +12,7 @@ Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplic
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Proyectos destacados en produccion (examenes y enarmex con usuarios reales)
 
 <table>
   <tr>
