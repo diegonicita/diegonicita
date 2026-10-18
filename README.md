@@ -72,18 +72,6 @@ Actualmente enfocado en **Next.js**, **React**, arquitecturas serverless y aplic
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=diegonicita&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=diegonicita&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=diegonicita&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ### 📫 Contacto
 
 <p>
